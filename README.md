@@ -3,7 +3,7 @@
 ### 🌱 Atualmente Estou Estudando Sistemas de Informação na Faculdade UCL - Campus Manguinhos!
 ### 📫 Caso queira entrar em contato, meu email é eliezernovaiz@gmail.com
 ## 🛠️ Tecnologias e Ferramentas
-- **Backend:** C#, .NET Core, Node.js, TypeScript
+- **Backend:** Python, C#, .NET Core, Node.js, TypeScript
 - **Frontend:** JavaScript, React, Flutter(Dart)
 - **Bancos de Dados:** SQL Server, PostgreSQL, MySQL, SQLite
 
