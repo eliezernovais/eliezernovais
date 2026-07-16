@@ -1,11 +1,11 @@
 # Ola! 👋
 
-###🌱 Atualmente Estou Estudando Sistemas de Informação na Faculdade UCL - Campus Manguinhos!
-###📫 Caso queira entrar em contato, meu email é eliezernovais@gmail.com
+### 🌱 Atualmente Estou Estudando Sistemas de Informação na Faculdade UCL - Campus Manguinhos!
+### 📫 Caso queira entrar em contato, meu email é eliezernovais@gmail.com
 ## 🛠️ Tecnologias e Ferramentas
 - **Backend:** C#, .NET Core, Node.js, TypeScript
 - **Frontend:** JavaScript, React, Flutter(Dart)
 - **Bancos de Dados:** SQL Server, PostgreSQL, MySQL, SQLite
 
-#⚡ Sou apaixonado por matematica e fisica, estudo no meu tempo vago, gosto de aprender como tudo funciona e fazer tudo funcionar de uma forma melhor, por isso entrei na area de programação.
-#🏅 Medalhista das Olimpiadas Brasileiras de Matematica.
+### ⚡ Sou apaixonado por matematica e fisica, estudo no meu tempo vago, gosto de aprender como tudo funciona e fazer tudo funcionar de uma forma melhor, por isso entrei na area de programação.
+### 🏅 Medalhista das Olimpiadas Brasileiras de Matematica.
