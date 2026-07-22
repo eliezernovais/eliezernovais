@@ -4,7 +4,7 @@
 ### 📫 Caso queira entrar em contato, meu email é eliezernovaiz@gmail.com
 ## 🛠️ Tecnologias e Ferramentas
 - **Backend:** Python, C#, .NET Core, Node.js, TypeScript
-- **Frontend:** JavaScript, React, Flutter(Dart)
+- **Frontend:** JavaScript, Typescript, React, Vite, Flutter(Dart)
 - **Bancos de Dados:** SQL Server, PostgreSQL, MySQL, SQLite
 
 ### ⚡ Sou apaixonado por matematica e fisica, estudo no meu tempo vago, gosto de aprender como tudo funciona e fazer tudo funcionar de uma forma melhor, por isso entrei na area de programação.
